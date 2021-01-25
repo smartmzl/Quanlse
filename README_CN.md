@@ -70,21 +70,19 @@ python 1-Example-Pi-Pulse.py
 ## 常见问题
 **Q：我应该如何开始使用量脉？**
 
-**A：**我们建议用户访问我们的[网站](https://quanlse.baidu.com/#/doc/quickstart)并遵循以下路线图：
+**A：** 我们建议用户访问我们的[网站](https://quanlse.baidu.com/#/doc/quickstart)并遵循以下路线图：
 
-**步骤1：**进入[快速入门](https://quanlse.baidu.com/#/doc/quickstart)了解如何访问量脉云服务。
-
-**步骤2：**学习[单量子比特控制](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)和[双量子比特控制](https://quanlse.baidu.com/#/doc/tutorial-iswap)的例子来熟悉量脉。
-
-**步骤3：**研究更多[进阶应用](https://quanlse.baidu.com/#/doc/tutorial-drag)，探索量脉更多的可能性。
+- **步骤1：** 进入[快速入门](https://quanlse.baidu.com/#/doc/quickstart)了解如何访问量脉云服务。
+- **步骤2：** 学习[单量子比特控制](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)和[双量子比特控制](https://quanlse.baidu.com/#/doc/tutorial-iswap)的例子来熟悉量脉。
+- **步骤3：** 研究更多[进阶应用](https://quanlse.baidu.com/#/doc/tutorial-drag)，探索量脉更多的可能性。
 
 **Q：我的 credit points 用完了该怎么办？**
 
-**A： **请通过 [Quantum Hub](https://quantum-hub.baidu.com) 联系我们。首先，登录 [Quantum Hub](https://quantum-hub.baidu.com)，然后进入“用户管理->反馈建议”页面，并输入必要的信息（选择“获取更多点数”）。提交您的反馈并等待回复。
+**A：** 请通过 [Quantum Hub](https://quantum-hub.baidu.com) 联系我们。首先，登录 [Quantum Hub](https://quantum-hub.baidu.com)，然后进入“用户管理->反馈建议”页面，并输入必要的信息（选择“获取更多点数”）。提交您的反馈并等待回复。
 
 **Q：我的应该如何在研究工作中引用量脉？**
 
-**A：**我们鼓励研发人员使用量脉进行量子控制领域的相关工作，请通过如下 [BibTeX 文件](Quanlse.bib)引用量脉。
+**A：** 我们鼓励研发人员使用量脉进行量子控制领域的相关工作，请通过如下 [BibTeX 文件](Quanlse.bib)引用量脉。
 ## 更新日志
 
 量脉的更新日志可在 [CHANGELOG.md](CHANGELOG.md) 文件中查看。
