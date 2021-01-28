@@ -47,7 +47,7 @@ To get started with Quanlse, users are recommended to go through the [Overview](
 
 ### Tutorials
 
-Quanlse provides detailed and comprehensive tutorials from fundamental to advanced topics. Each tutorial currently supports reading on our [website](https://quanlse.baidu.com/#/doc/tutorial-overview). For interested developers, we recommend them to download [Jupyter Notebooks](https://github.com/baidu/Quanlse/tree/master/Tutorial) and play with it. The tutorial list is as follows:
+Quanlse provides detailed and comprehensive tutorials from fundamental to advanced topics. Each tutorial currently supports reading on our [website](https://quanlse.baidu.com/#/doc/tutorial-overview). For interested developers, we recommend them to download [Jupyter Notebooks](https://github.com/baidu/Quanlse/tree/master/Tutorial/EN) and play with it. The tutorial list is as follows:
 
 - **Single-Qubit Control**
     - [Single-Qubit Gate](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)

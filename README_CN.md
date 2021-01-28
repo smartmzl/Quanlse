@@ -46,7 +46,7 @@ python 1-Example-Pi-Pulse.py
 
 ### 教程
 
-量脉提供了从基础到进阶主题的详尽教程。目前每个教程都支持用户在我们的[网站](https://quanlse.baidu.com/#/doc/tutorial-overview)上阅读。对于有兴趣的开发人员，我们建议下载并且使用 [Jupyter Notebooks](https://github.com/baidu/Quanlse/tree/master/Tutorial)。教程的内容如下：
+量脉提供了从基础到进阶主题的详尽教程。目前每个教程都支持用户在我们的[网站](https://quanlse.baidu.com/#/doc/tutorial-overview)上阅读。对于有兴趣的开发人员，我们建议下载并且使用 [Jupyter Notebooks](https://github.com/baidu/Quanlse/tree/master/Tutorial/EN)。教程的内容如下：
 
 - **单比特量子门**
   - [单比特量子门](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)
