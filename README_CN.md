@@ -10,7 +10,7 @@
 
 ## 安装
 
-我们强烈建议使用 [Anaconda](https://www.anaconda.com/) 作为研发环境，以提供最佳体验。
+我们强烈建议使用 [Anaconda](https://www.anaconda.com/) 作为研发环境并更新依赖项到最新版本，以提供最佳体验。
 
 ### 通过 pip 安装
 
@@ -49,17 +49,17 @@ python 1-Example-Pi-Pulse.py
 量脉提供了从基础到进阶主题的详尽教程。目前每个教程都支持用户在我们的[网站](https://quanlse.baidu.com/#/doc/tutorial-overview)上阅读。对于有兴趣的开发人员，我们建议下载并且使用 [Jupyter Notebooks](https://github.com/baidu/Quanlse/tree/master/Tutorial)。教程的内容如下：
 
 - **单比特量子门**
-  1. [单比特量子门](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)
-  2. [校准 Pi 脉冲](https://quanlse.baidu.com/#/doc/tutorial-pi-pulse)
+  - [单比特量子门](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)
+  - [校准 Pi 脉冲](https://quanlse.baidu.com/#/doc/tutorial-pi-pulse)
 - **两比特量子门**
-  1. [iSWAP 门](https://quanlse.baidu.com/#/doc/tutorial-iswap)
-  2. [Controlled-Z 门](https://quanlse.baidu.com/#/doc/tutorial-cz)
-  3. [Cross-Resonance 门](https://quanlse.baidu.com/#/doc/tutorial-cr)
+  - [iSWAP 门](https://quanlse.baidu.com/#/doc/tutorial-iswap)
+  - [Controlled-Z 门](https://quanlse.baidu.com/#/doc/tutorial-cz)
+  - [Cross-Resonance 门](https://quanlse.baidu.com/#/doc/tutorial-cr)
 - **进阶应用**
-  1. [DRAG 脉冲](https://quanlse.baidu.com/#/doc/tutorial-drag)
-  2. [误差分析](https://quanlse.baidu.com/#/doc/tutorial-error-analysis)
-  3. [用于量子电路的量脉调度器](https://quanlse.baidu.com/#/doc/tutorial-scheduler)
-  4. [基于脉冲的变分量子本征求解算法](https://quanlse.baidu.com/#/doc/tutorial-pbvqe)
+  - [DRAG 脉冲](https://quanlse.baidu.com/#/doc/tutorial-drag)
+  - [误差分析](https://quanlse.baidu.com/#/doc/tutorial-error-analysis)
+  - [用于量子电路的量脉调度器](https://quanlse.baidu.com/#/doc/tutorial-scheduler)
+  - [基于脉冲的变分量子本征求解算法](https://quanlse.baidu.com/#/doc/tutorial-pbvqe)
 
 此外，量脉还支持用于核磁共振（NMR）量子计算的量子控制服务。关于[量脉核磁](https://nmr.baidu.com/)的教程，请阅读[教程：量脉核磁](https://quanlse.baidu.com/#/doc/nmr)。
 

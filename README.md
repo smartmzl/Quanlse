@@ -10,7 +10,7 @@ Quanlse supports the pulse generation and scheduling of arbitrary single-qubit a
 
 ## Install
 
-We strongly recommend using [Anaconda](https://www.anaconda.com/) for your R&D environment for the best experience.
+We strongly recommend using [Anaconda](https://www.anaconda.com/) for your R&D environment and upgrading the requirements to the latest versions for the best experience.
 
 ### Install via pip
 
@@ -50,17 +50,17 @@ To get started with Quanlse, users are recommended to go through the [Overview](
 Quanlse provides detailed and comprehensive tutorials from fundamental to advanced topics. Each tutorial currently supports reading on our [website](https://quanlse.baidu.com/#/doc/tutorial-overview). For interested developers, we recommend them to download [Jupyter Notebooks](https://github.com/baidu/Quanlse/tree/master/Tutorial) and play with it. The tutorial list is as follows:
 
 - **Single-Qubit Control**
-    1. [Single-Qubit Gate](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)
-    2. [Calibrate Pi Pulses](https://quanlse.baidu.com/#/doc/tutorial-pi-pulse)
+    - [Single-Qubit Gate](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)
+    - [Calibrate Pi Pulses](https://quanlse.baidu.com/#/doc/tutorial-pi-pulse)
 - **Two-Qubit Control**
-    1. [iSWAP Gate](https://quanlse.baidu.com/#/doc/tutorial-iswap)
-    2. [Controlled-Z Gate](https://quanlse.baidu.com/#/doc/tutorial-cz)
-    3. [Cross-Resonance Gate](https://quanlse.baidu.com/#/doc/tutorial-cr)
+    - [iSWAP Gate](https://quanlse.baidu.com/#/doc/tutorial-iswap)
+    - [Controlled-Z Gate](https://quanlse.baidu.com/#/doc/tutorial-cz)
+    - [Cross-Resonance Gate](https://quanlse.baidu.com/#/doc/tutorial-cr)
 - **Advanced Applications**
-    1. [Derivative Removal by Adiabatic Gate](https://quanlse.baidu.com/#/doc/tutorial-drag)
-    2. [Error Analysis](https://quanlse.baidu.com/#/doc/tutorial-error-analysis)
-    3. [Quanlse Scheduler](https://quanlse.baidu.com/#/doc/tutorial-scheduler)
-    4. [Pulse-based Variational Quantum Eigensolver Algorithm](https://quanlse.baidu.com/#/doc/tutorial-pbvqe)
+    - [Derivative Removal by Adiabatic Gate](https://quanlse.baidu.com/#/doc/tutorial-drag)
+    - [Error Analysis](https://quanlse.baidu.com/#/doc/tutorial-error-analysis)
+    - [Quanlse Scheduler](https://quanlse.baidu.com/#/doc/tutorial-scheduler)
+    - [Pulse-based Variational Quantum Eigensolver Algorithm](https://quanlse.baidu.com/#/doc/tutorial-pbvqe)
 
 In addition, Quanlse also supports quantum control for nuclear magnetic resonance (NMR) quantum computing. For more information about [QuanlseNMR](https://nmr.baidu.com/en/), please refer to the [tutorial: QuanlseNMR](https://quanlse.baidu.com/#/doc/nmr).
 
