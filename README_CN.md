@@ -6,11 +6,11 @@
 
 [量脉(Quanlse)](https://quanlse.baidu.com)是由百度研究院[量子计算研究所](https://quantum.baidu.com)开发的基于云服务的量子控制平台。量脉的目标是搭起连接量子软件和硬件之间的桥梁。通过强大的量脉云服务和开源 SDK，量脉提供高效和专业的量子控制解决方案。
 
-量脉支持任意单量子比特门脉冲和双量子比特门脉冲的产生和调度。借助量脉的工具箱，用户还可以实现物理设备的建模、动力学演化的模拟和错误分析的可视化。更有趣的是，用户可以使用量脉的工具在脉冲层面实现量子算法。此外，量脉还支持量子控制领域的高级研发工作。
+量脉支持任意单量子比特门脉冲和双量子比特门脉冲的产生和调度。借助量脉的工具箱，用户还可以实现物理系统的建模、动力学演化的模拟和错误分析的可视化。更有趣的是，用户可以使用量脉的工具在脉冲层面实现量子算法。此外，量脉还支持量子控制领域的进阶研发。
 
 ## 安装
 
-我们强烈建议使用 [Anaconda](https://www.anaconda.com/) 作为研发环境并更新依赖项到最新版本，以提供最佳体验。
+为了提供最佳用户体验，我们强烈建议使用 [Anaconda](https://www.anaconda.com/) 作为研发环境并更新依赖项到最新版本。
 
 ### 通过 pip 安装
 
@@ -20,9 +20,9 @@
 pip install Quanlse
 ```
 
-### 通过 Github 下载安装
+### 通过 GitHub 下载安装
 
-用户也可以选择下载全部文件后进行本地安装，
+用户也可以通过 GitHub 下载全部文件后进行本地安装，
 
 ```bash
 git clone http://github.com/baidu/Quanlse
@@ -42,11 +42,11 @@ python 1-Example-Pi-Pulse.py
 ## 入门和开发
 
 ### 概述
-在开始使用量脉之前，我们建议用户首先通过阅读[简介](https://quanlse.baidu.com/#/doc/overview)了解该平台的概览。然后，[快速入门](https://quanlse.baidu.com/#/doc/quickstart)将会一步一步地指导您如何使用量脉云服务，以及如何使用量脉来构建您的第一个程序。接下来，我们鼓励用户在[教程](https://quanlse.baidu.com/#/doc/tutorial-overview)里学习更多量脉提供的功能和应用程序。最后，我们鼓励用户能够使用量脉解决问题。有关量脉 API 的完整和详细文档，请阅读我们的 [API](https://quanlse.baidu.com/api/) 文档页.
+在开始使用量脉之前，我们建议用户首先通过阅读[简介](https://quanlse.baidu.com/#/doc/overview)了解该平台。然后，[快速入门](https://quanlse.baidu.com/#/doc/quickstart)将会一步一步地引导您如何使用量脉云服务，以及如何使用量脉来构建您的第一个程序。接下来，我们鼓励用户在[教程](https://quanlse.baidu.com/#/doc/tutorial-overview)里学习量脉提供的更多应用案例。最后，我们鼓励用户能够使用量脉解决科研和工程问题。有关量脉 API 的完整文档，请阅读我们的 [API 文档页](https://quanlse.baidu.com/api/).
 
 ### 教程
 
-量脉提供了从基础到进阶主题的详尽教程。目前每个教程都支持用户在我们的[网站](https://quanlse.baidu.com/#/doc/tutorial-overview)上阅读。对于有兴趣的开发人员，我们建议下载并且使用 [Jupyter Notebooks](https://github.com/baidu/Quanlse/tree/master/Tutorial/EN)。教程的内容如下：
+量脉提供了从基础到进阶主题的详尽教程，用户可以通过我们的[网站](https://quanlse.baidu.com)进行学习。对于有兴趣的科研工作者或开发者，我们建议下载并且使用 [Jupyter Notebooks](https://github.com/baidu/Quanlse/tree/master/Tutorial/EN)。教程的内容如下：
 
 - **单比特量子门**
   - [单比特量子门](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)
@@ -65,12 +65,12 @@ python 1-Example-Pi-Pulse.py
 
 ## 反馈
 
-我们鼓励用户通过 [Github Issues](https://github.com/baidu/Quanlse/issues) 或 quanlse@baidu.com 联系我们反馈一般问题、错误和改进意见。我们希望通过与社区的合作让量脉变得更好！
+我们鼓励用户通过 [Github Issues](https://github.com/baidu/Quanlse/issues) 或 quanlse@baidu.com 联系我们反馈一般问题、错误和改进意见和建议。我们希望通过与社区的合作让量脉变得更好！
 
 ## 常见问题
 **Q：我应该如何开始使用量脉？**
 
-**A：** 我们建议用户访问我们的[网站](https://quanlse.baidu.com/#/doc/quickstart)并遵循以下路线图：
+**A：** 我们建议用户访问我们的[网站](https://quanlse.baidu.com)并遵循以下路线图：
 
 - **步骤1：** 进入[快速入门](https://quanlse.baidu.com/#/doc/quickstart)了解如何访问量脉云服务。
 - **步骤2：** 学习[单量子比特控制](https://quanlse.baidu.com/#/doc/tutorial-single-qubit)和[双量子比特控制](https://quanlse.baidu.com/#/doc/tutorial-iswap)的例子来熟悉量脉。
@@ -80,7 +80,7 @@ python 1-Example-Pi-Pulse.py
 
 **A：** 请通过 [Quantum Hub](https://quantum-hub.baidu.com) 联系我们。首先，登录 [Quantum Hub](https://quantum-hub.baidu.com)，然后进入“用户管理->反馈建议”页面，并输入必要的信息（选择“获取更多点数”）。提交您的反馈并等待回复。
 
-**Q：我的应该如何在研究工作中引用量脉？**
+**Q：我应该如何在研究工作中引用量脉？**
 
 **A：** 我们鼓励研发人员使用量脉进行量子控制领域的相关工作，请通过如下 [BibTeX 文件](Quanlse.bib)引用量脉。
 ## 更新日志
