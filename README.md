@@ -1,6 +1,7 @@
 English | [简体中文](README_CN.md)
 
 ![](https://release-data.cdn.bcebos.com/Quanlse_title_en.png)
+
 [![](https://img.shields.io/badge/license-Apache%202.0-green)](./LICENSE) [![](https://img.shields.io/badge/build-passing-green)]() ![](https://img.shields.io/badge/Python-3.6--3.8-blue) ![](https://img.shields.io/badge/release-v1.0.0-blue)
 
 [Quanlse (量脉)](https://quanlse.baidu.com) is a cloud-based platform for quantum control developed by the [Institute for Quantum Computing](https://quantum.baidu.com) at Baidu Research. Quanlse aims to bridge the gap between quantum software and hardware. It provides efficient and professional quantum control solutions via an open-source SDK strengthened by Quanlse Cloud Service.
@@ -74,9 +75,9 @@ Users are encouraged to contact us through [Github Issues](https://github.com/ba
 
 **A:** We recommend users go to our [website](http://quanlse.baidu.com) and follow the roadmap. 
 
-**Step 1:** Go to [Quick Start](https://quanlse.baidu.com/#/doc/quickstart) to learn how to access Quanlse Cloud Service.
-**Step 2:** Get familiarized with Quanlse by going through the examples of [single-qubit control](https://quanlse.baidu.com/#/doc/tutorial-single-qubit) and [two-qubit control](https://quanlse.baidu.com/#/doc/tutorial-iswap). 
-**Step 3:** Explore more possibilities with Quanlse by studying more [advanced applications](https://quanlse.baidu.com/#/doc/tutorial-drag).
+- **Step 1:** Go to [Quick Start](https://quanlse.baidu.com/#/doc/quickstart) to learn how to access Quanlse Cloud Service.
+- **Step 2:** Get familiarized with Quanlse by going through the examples of [single-qubit control](https://quanlse.baidu.com/#/doc/tutorial-single-qubit) and [two-qubit control](https://quanlse.baidu.com/#/doc/tutorial-iswap). 
+- **Step 3:** Explore more possibilities with Quanlse by studying more [advanced applications](https://quanlse.baidu.com/#/doc/tutorial-drag).
 
 **Q: What should I do when I run out of my credit points?**  
 
